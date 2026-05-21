@@ -19,4 +19,3 @@ CleanCity SL allows users to:
 - CSS3
 ## Author
 Michael Jabati
-## GitHub Repository 
